@@ -1,0 +1,399 @@
+#EXTM3U
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us.xml
+
+#EXTINF:-1, BET
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/BET-Logo.png",BET
+https://v8.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8?token=y6RLF0_AdsmW3PKVJrNRmw&expires=1744345271&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, BET HER
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Bet-Her-Logo-Vector.svg-.png",BET HER
+https://v17.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8?token=W4Ro5K78tKiSYLfW1n1-yQ&expires=1744383932&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, BET SOUL
+#EXTINF:-1 tvg-id="BET SOUL" tvg-name="BET SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png",BET SOUL
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1, BET GOSPEL
+#EXTINF:-1 tvg-id="BET GOSPEL" tvg-name="BET GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg",BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1, BET JAMS
+#EXTINF:-1 tvg-id="BET JAMS" tvg-name="BET JAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BET_Jams_Logo.png",BET JAMS
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1, TV ONE
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TVOne_2016.png/220px-TVOne_2016.png",TV ONE
+https://v14.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8?token=764EwHcCdpv78kb9uY0AXg&expires=1744345330&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, BOUNCE
+#EXTINF:-1 tvg-id="BOUNCE" tvg-name="BOUNCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png",BOUNCE
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1, BOUNCE XL
+#EXTINF:-1 tvg-id="BOUNCE XL" tvg-name="BOUNCE XL" tvg-logo="https://i.imgur.com/GzxgSkc.png",BOUNCE XL
+https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
+#EXTINF:-1, LOL NETWORK
+#EXTINF:-1 tvg-id="LOL NETWORK" tvg-name="LOL NETWORK" tvg-logo="https://i.imgur.com/Tiy3Ur2.png",LOL NETWORK
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, MAVERICK BLACK CINEMA
+#EXTINF:-1 tvg-id="MAVERICK BLACK CINEMA" tvg-name="MAVERICK BLACK CINEMA" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",MAVERICK BLACK CINEMA
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, GRIT
+#EXTINF:-1 tvg-id="GRIT" tvg-name="GRIT" tvg-logo="https://i.imgur.com/6w1Wj3j.png",GRIT
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1, GRIT XTRA
+#EXTINF:-1 tvg-id="GRIT XTRA" tvg-name="GRIT XTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Grit_Xtra.png",GRIT XTRA
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, JUDGE NOSEY
+#EXTINF:-1 tvg-id="JUDGE NOSEY" tvg-name="JUDGE NOSEY" tvg-logo="https://i.imgur.com/S4r98AB.png",JUDGE NOSEY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cf40b17-1cb7-40a3-b1fa-934cfd8b1ad5
+#EXTINF:-1, NOSEY
+#EXTINF:-1 tvg-id="NOSEY" tvg-name="NOSEY" tvg-logo="https://i.imgur.com/i5doCQK.png",NOSEY
+https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+#EXTINF:-1, GUNSMOKE
+#EXTINF:-1 tvg-id="GUNSMOKE" tvg-name="GUNSMOKE" tvg-logo="https://i.imgur.com/OxUS1Hq.png",GUNSMOKE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291884-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ba666b9-016a-4bca-b848-90fb25f5d54e
+#EXTINF:-1, THE RIFLEMAN
+#EXTINF:-1 tvg-id="THE RIFLEMAN" tvg-name="THE RIFLEMAN" tvg-logo="https://i.imgur.com/60YejJs.png",THE RIFLEMAN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
+#EXTINF:-1, THE BEVERLY HILLBILLIES
+#EXTINF:-1 tvg-id="THE BEVERLY HILLBILLIES" tvg-name="THE BEVERLY HILLBILLIES" tvg-logo="https://i.imgur.com/OV9hT93.png",THE BEVERLY HILLBILLIES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69bf4a83-189f-4b22-bbe6-f2e09a47e049
+#EXTINF:-1, CLEO TV
+#EXTINF:-1 tvg-id="CLEO TV" tvg-name="CLEO TV" tvg-logo="https://i.imgur.com/US0T6DC.png",CLEO TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1, COPS
+#EXTINF:-1 tvg-id="COPS" tvg-name="COPS" tvg-logo="https://i.imgur.com/J3XO6V2.png",COPS
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1, COURT TV
+#EXTINF:-1 tvg-id="COURT TV" tvg-name="COURT TV" tvg-logo="https://i.imgur.com/qkfe3o9.png",COURT TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1, 70s CINEMA
+#EXTINF:-1 tvg-id="70s CINEMA" tvg-name="70s CINEMA" tvg-logo="https://i.imgur.com/mgXeEE4.png",70s CINEMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+#EXTINF:-1, BLACK CINEMA
+#EXTINF:-1 tvg-id="BLACK CINEMA" tvg-name="BLACK CINEMA" tvg-logo="https://i.imgur.com/FKBp987.png",BLACK CINEMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+#EXTINF:-1, BLACK CLASSICS
+#EXTINF:-1 tvg-id="BLACK CLASSICS" tvg-name="BLACK CLASSICS" tvg-logo="https://i.imgur.com/2nNpGqy.png",BLACK CLASSICS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c
+#EXTINF:-1, BLACK NEWS CHANNEL
+#EXTINF:-1 tvg-id="BLACK NEWS CHANNEL" tvg-name="BLACK NEWS CHANNEL" tvg-logo="https://i.imgur.com/oX5oR4d.png",BLACK NEWS CHANNEL
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, BLACK THROWBACKS
+#EXTINF:-1 tvg-id="BLACK THROWBACKS" tvg-name="BLACK THROWBACKS" tvg-logo="https://i.imgur.com/2r6UbZw.png",BLACK THROWBACKS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480
+#EXTINF:-1, OWN
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://i0.wp.com/pocculture.com/wp-content/uploads/2023/08/OWN_Meta_Logo-min.png?fit=1200%2C900&ssl=1",OWN
+https://v3.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8?token=eSGbcMYhOYqq-wNLqSNJ7w&expires=1744345633&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, LIFETIME
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",LIFETIME
+https://v4.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8?token=_Xf1wpcr4VhviCg_56fVJw&expires=1744345682&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, LMN
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1280px-LMN_logo_2019.svg.png",LMN
+https://v16.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8?token=bLjKB9svotyrEMB_HkrtXA&expires=1744345712&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",A&E
+https://v14.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=xbZU7hVrYEceYjLiJydPLA&expires=1744345750&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1024px-AMC_logo_2019.svg.png?20250206121231",AMC
+https://v2.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=waGdOgi-d_vCkkiJsaKK_A&expires=1744345989&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1024px-Animal_Planet.png?20110112040715",ANIMAL PLANET
+https://v3.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8?token=j2faiT5l6P45_1sNzkLesA&expires=1744346029&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, BBC AMERICA
+#EXTINF:-1 tvg-id="BBC AMERICA" tvg-name="BBC AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/572px-BBC_America_logo_2021.svg.png?20220614100606",BBC AMERICA
+https://v15.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=YQJ1k6guT0KKxSxzU9_S8A&expires=1744346076&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, CMT
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CMT_logo.svg/800px-CMT_logo.svg.png?20170324023028",CMT
+https://v2.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8?token=KI800J9qg6PB_0ES66U68A&expires=1744346132&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",CNBC
+https://v3.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=_Wz928dkE2PCX8yneTA7Tg&expires=1744346154&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png",CNN
+https://v5.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8?token=1Nn8zaWeylc_shyYo_vDwQ&expires=1744346227&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, COMEDY CENTRAL
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL
+https://v4.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8?token=9OyDB5LVKGPoUVtN3js75Q&expires=1744346263&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, COOKING CHANNEL
+#EXTINF:-1 tvg-id="COOKING CHANNEL" tvg-name="COOKING CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/751px-Cooking_Channel.svg.png?20220410180716",COOKING CHANNEL
+https://v3.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8?token=sAYQh8hF91aYWroKsZ_5ZQ&expires=1744346327&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, DESTINATION AMERICA
+#EXTINF:-1 tvg-id="DESTINATION AMERICA" tvg-name="DESTINATION AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/800px-Destination_America_logo.svg.png",DESTINATION AMERICA
+https://v17.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8?token=2QkUE7HWKNj9iAfZF_vVLQ&expires=1744346402&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, DISCOVERY
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",DISCOVERY
+https://v13.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8?token=xgC9XRfjbouJ20O5YZdwbQ&expires=1744349372&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, E!
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/250px-E%21_Logo_2012.svg.png",E!
+https://v15.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8?token=AvLsOLT7E-LkWq4Xjl6nyg&expires=1744349414&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, FOOD NETWORK
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/800px-Food_Network_logo.svg.png",FOOD NETWORK
+https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8?token=PStgmbahV1oPfIkJwpWbSQ&expires=1744349470&user_id=cldMSFUwQXBBVnBsWGpsNTdzNkdQd1NGTmRWSTVCZEc5b2g2bnBrTg==
+#EXTINF:-1, DISNEY 
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png",DISNEY
+https://v14.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?token=PuSNaj7O5eHcxiRC-VHShA&expires=1744386784&user_id=ZUVGR2pPV29UVVhoWEVPZGF3UzB4V2dtT1dvSFR1NmJvWWE0WGNNdw==
+#EXTINF:-1, C-SPAN
+#EXTINF:-1 tvg-id="C-SPAN" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",C-SPAN
+https://v3.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=60aEE0fkYyAVy53-fBP_UA&expires=1744427805&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, C-SPAN 2
+#EXTINF:-1 tvg-id="C-SPAN 2" tvg-name="C-SPAN 2" tvg-logo="https://images.squarespace-cdn.com/content/v1/581de4cfe6f2e1714ce29da9/1481038671487-5EMJG3IBKMS75TIJATSQ/image-asset.png",C-SPAN 2
+https://v8.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=R0WbI3AEcVc36-68KXZpIA&expires=1744427984&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+https://v2.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8?token=BlXBtNcP7basKXpobQUzhQ&expires=1744428373&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, THE CW
+#EXTINF:-1 tvg-id="THE CW" tvg-name="THE CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/2560px-The_CW.svg.png",THE CW
+https://v18.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8?token=s6dVN1Oc1KjiFC-1a6g6HA&expires=1744785414&user_id=cmRqdGprQlgyUHZPV3hMbUVLTFhuNHRFUmxTTU53Wm9mdGJaN2dlRA==
+#EXTINF:-1, IMPACT WRESTLING
+#EXTINF:-1 tvg-id="IMPACT WRESTLING" tvg-name="IMPACT WRESTLING" tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT WRESTLING
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
+#EXTINF:-1, DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="DISCOVERY FAMILY CHANNEL" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Discovery_Family_Channel_%28DFC%29.png",DISCOVERY FAMILY CHANNEL
+https://v2.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8?token=ARBbXXB1kgkskvFlPEXH5w&expires=1744429075&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, DISCOVERY LIFE CHANNEL
+#EXTINF:-1 tvg-id="DISCOVERY LIFE CHANNEL" tvg-name="DISCOVERY LIFE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/960px-Discovery_Life_logo.svg.png",DISCOVERY LIFE CHANNEL
+https://v3.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8?token=SGGZeGU8Ev-sFX5CRMgrYQ&expires=1744429487&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, USA NETWORK
+#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png",USA NETWORK
+https://v13.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8?token=-dEAk4RiRhQdTU215cwDuw&expires=1744429798&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, CINE TERROR
+#EXTINF:-1 tvg-id="CINE TERROR" tvg-name="CINE TERROR" tvg-logo="https://i.imgur.com/I5XxyLI.png",CINE TERROR
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:-1, DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png",DISNEY JUNIOR
+https://v15.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8?token=Bp9HzoXQpXdCue41hta9nw&expires=1744434423&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, DISNEY XD
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png",DISNEY XD
+https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8?token=9RKpWTrta8wj3aGFod5NoQ&expires=1744434849&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, FREEFORM
+#EXTINF:-1 tvg-id="FREEFORM" tvg-name="FREEFORM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/800px-Freeform_2022.svg.png",FREEFORM
+https://v16.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8?token=eMZGNHoRLU4wu8Jlsb8KmA&expires=1744435179&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, FUSE TV
+#EXTINF:-1 tvg-id="FUSE TV" tvg-name="FUSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/1280px-Fuse_Black_Logo_2017.png",FUSE TV
+https://v4.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8?token=Ur8Qo-egEivn_d3JM0LFXQ&expires=1744435420&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+https://v5.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8?token=oQ8y22dz8XzXLYJ8AihbyA&expires=1744435634&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png?20220630114509",HBO 2
+https://v5.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8?token=JLLJUro4i22MCVEhSCz7Gg&expires=1744435791&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, HBO COMEDY
+#EXTINF:-1 tvg-id="HBO COMEDY" tvg-name="HBO COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",HBO COMEDY
+https://v12.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8?token=bZ0cFesD5zpVgAVnMJV05w&expires=1744435949&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, HBO FAMILY
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png?20101220234026",HBO FAMILY
+https://v17.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8?token=Yl7uhCjEcD3lzNwtETsoMg&expires=1744436344&user_id=UG1jYlNkbU1PRGRXdnBPM21HTHVoWWFxbDRob21JYTJhSjhkUzl4Tg==
+#EXTINF:-1, HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
+https://v2.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8?token=hB-5NL52ELW9P9BN-rEWtQ&expires=1744507281&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, HBO ZONE
+#EXTINF:-1 tvg-id="HBO ZONE" tvg-name="HBO ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",HBO ZONE
+https://v15.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8?token=YH620IImPDNJB40lInNmtg&expires=1744507573&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, ION
+#EXTINF:-1 tvg-id="ION" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ion_Television_logo.svg/1200px-Ion_Television_logo.svg.png",ION
+https://v3.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8?token=jx6yJ6S5f1S6eYj7rgtOEw&expires=1744507680&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/MTV-Logo.png",MTV
+https://v18.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=bz-OKFd89cIOxNm8ZX7ZDg&expires=1744507986&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, MTV 2
+#EXTINF:-1 tvg-id="MTV 2" tvg-name="MTV 2" tvg-logo="https://logodix.com/logo/724948.png",MTV 2
+https://v8.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8?token=yyrWVJE96_hH5Gq-jLAFoA&expires=1744508128&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1,REELZ CHANNEL
+#EXTINF:-1 tvg-id="REELZ CHANNEL" tvg-name="REELZ CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",REELZ CHANNEL
+https://v16.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8?token=_fa4lV16ow_bEH4Oe-_1LA&expires=1744508268&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, SHOWTIME
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",SHOWTIME
+https://v4.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8?token=_WVd0knLUFKItSZW46FAMw&expires=1744508459&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, SHOWTIME 2
+#EXTINF:-1 tvg-id="SHOWTIME 2" tvg-name="SHOWTIME 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/125px-Showtime_2.svg.png",SHOWTIME 2
+https://v3.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8?token=oA3TGneSIhrsdafpFxGjtg&expires=1744508597&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, WETV
+#EXTINF:-1 tvg-id="WETV" tvg-name="WETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/2560px-We_TV_logo_2014.svg.png",WETV
+https://v17.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8?token=VbjCBm_BWKV1SK8NYRYefQ&expires=1744612360&user_id=bmh2UnRRQmdqOFpjZGhOenBucVgwQkRmR1NiemQ4VHRxV1B1Mjh3Sw==
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png",VH1
+https://v1.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8?token=whKlojlUsVgWpf5nwlFWcw&expires=1744612580&user_id=bmh2UnRRQmdqOFpjZGhOenBucVgwQkRmR1NiemQ4VHRxV1B1Mjh3Sw==
+#EXTINF:-1, FXX
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/800px-FXX_Logo.svg.png",FXX
+https://v2.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8?token=mbd0qrFJyxf_OEJdKko93Q&expires=1744780215&user_id=Q2FDRUtDY2ZEbzF2cTc1Z3NJczVDcFkyVjNvY2JNRjZmWU1QWEEzUQ==
+#EXTINF:-1, SYFY
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/960px-SYFY.svg.png",SYFY
+https://v2.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8?token=kgPPeJWJGzY-4_zumoo54Q&expires=1744514321&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/960px-TBS_logo_2016.svg.png",TBS
+https://v16.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8?token=9Cuw2JRQCTZT0-LluImpjw&expires=1744513899&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, STARZ
+#EXTINF:-1 tvg-id="STARZ" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/960px-Starz_2016.svg.png",STARZ
+https://v2.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8?token=bo6Ib_dh4Vh7BFAVBDTAHQ&expires=1744514199&user_id=MDYxYnFPVW1QdUd3SWNFenplY2RidUp6Sm1OcFpHdTZKa0pxb1U5Nw==
+#EXTINF:-1, STARZ ENCORE
+#EXTINF:-1 tvg-id="STARZ ENCORE" tvg-name="STARZ ENCORE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/512px-Starz_Encore_Logo_2022.svg.png",STARZ ENCORE
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1, TV LAND
+#EXTINF:-1 tvg-id="TV LAND" tvg-name="TV LAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1920px-TV_Land_2015_logo.svg.png",TV LAND
+https://v1.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8?token=ln1P5rHgycBa5KB8-8E1hg&expires=1744612780&user_id=bmh2UnRRQmdqOFpjZGhOenBucVgwQkRmR1NiemQ4VHRxV1B1Mjh3Sw==
+#EXTINF:-1, TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",TNT
+https://v18.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8?token=l2ngqu1RncI1Q9nz7AqBtQ&expires=1744612990&user_id=bmh2UnRRQmdqOFpjZGhOenBucVgwQkRmR1NiemQ4VHRxV1B1Mjh3Sw==
+#EXTINF:-1, IFC
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IFC_(Canada)_logo.svg/290px-IFC_(Canada)_logo.svg.png",IFC
+https://v17.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8?token=_SBcvyWn1-kU3tEQzh4cLw&expires=1745004483&user_id=MTBXSG5na2lkc0t1cldMcjlnYUswNmVsQmRMUkVVQW9rOHhqMThvNg==
+#EXTINF:-1, ABC NEWS LIVE
+#EXTINF:-1 tvg-id="ABC NEWS LIVE" tvg-name="ABC NEWS LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC NEWS LIVE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
+#EXTINF:-1, VICE
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/vice-logo-transparent.png",VICE
+https://v13.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8?token=bbq5RvNd7UYyHTIQntEHfw&expires=1745035989&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, BRAVO
+#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_(2017_Logo).png",BRAVO
+https://v15.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8?token=smvLZlfCz4wRX7fqZzPmlw&expires=1745036410&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, GAME SHOW NETWORK
+#EXTINF:-1 tvg-id="GAME SHOW NETWORK" tvg-name="GAME SHOW NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png",GAME SHOW NETWORK
+https://v15.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8?token=cCkxT0aZeROAoz6uYTFCDw&expires=1745005145&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, AFV
+#EXTINF:-1 tvg-id="AFV" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1, AFV FAMILY
+#EXTINF:-1 tvg-id="AFV FAMILY" tvg-name="AFV FAMILY" tvg-logo="https://i.imgur.com/dLSKBEn.png",AFV FAMILY
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, ARE WE THERE YET?
+#EXTINF:-1 tvg-id="ARE WE THERE YET?" tvg-name="ARE WE THERE YET?" tvg-logo="https://i.imgur.com/3BJQiHP.png",ARE WE THERE YET?
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
+#EXTINF:-1, ASPIRE
+#EXTINF:-1 tvg-id="ASPIRE" tvg-name="ASPIRE" tvg-logo="https://i.imgur.com/TOM5qO6.png",ASPIRE
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1, HALLMARK
+#EXTINF:-1 tvg-id="HALLMARK" tvg-name="HALLMARK" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Hallmark-logo.png",HALLMARK
+https://v5.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8?token=rOOBPooMf-BalHsk4c5G0Q&expires=1745005291&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, HALLMARK FAMILY
+#EXTINF:-1 tvg-id="HALLMARK FAMILY" tvg-name="HALLMARK FAMILY" tvg-logo="https://www.hallmarkmediainternational.com/images/HF_LOGO_PurpleOrchid.png",HALLMARK FAMILY
+https://v8.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8?token=2H1YrILAmQWyPdFF2Q4JRg&expires=1745005341&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, HALLMARK MYSTERY
+#EXTINF:-1 tvg-id="HALLMARK MYSTERY" tvg-name="HALLMARK MYSTERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/440px-Hallmark_movies_mysteries.png",HALLMARK MYSTERY
+https://v18.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8?token=-wdVnc46TYgFqMjPAcbEYQ&expires=1745005484&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, HISTORY CHANNEL
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HISTORY CHANNEL
+https://v16.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8?token=l5SdD6eX7z2slvEoNNiZrA&expires=1745005605&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, METV
+#EXTINF:-1 tvg-id="METV" tvg-name="METV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1280px-MeTV_Logo.svg.png",METV
+https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8?token=ZcXdk-UVVd6gByIX5ek7Dw&expires=1745005698&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, METV TOONS
+#EXTINF:-1 tvg-id="METV TOONS" tvg-name="METV TOONS" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/1/1e/MeTV_Toons_logo.png",METV TOONS
+https://v13.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8?token=cU3RuUPR0PBRDzIEjDEiIA&expires=1745005803&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+https://v4.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=w11rKTZ_eIB0pWux6K0ykQ&expires=1744779895&user_id=Q2FDRUtDY2ZEbzF2cTc1Z3NJczVDcFkyVjNvY2JNRjZmWU1QWEEzUQ==
+#EXTINF:-1,FX MOVIE CHANNEL
+#EXTINF:-1 tvg-id="FX MOVIE CHANNEL" tvg-name="FX MOVIE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png",FX MOVIE CHANNEL
+https://v14.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8?token=y2wvHQsdip08NZxunwn_RQ&expires=1744780981&user_id=Q2FDRUtDY2ZEbzF2cTc1Z3NJczVDcFkyVjNvY2JNRjZmWU1QWEEzUQ==
+#EXTINF:-1, MORE MAX
+#EXTINF:-1 tvg-id="MORE MAX" tvg-name="MORE MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/1200px-MoreMax_Logo.svg.png",MORE MAX
+https://v15.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8?token=0By_leiv9EukdjQtdoto0A&expires=1744875764&user_id=S0RrazFGMk92V3VJOGdVMUU3aW5GdHlGdm5yQ2FXWmVYbVZ4OXFwWQ==
+#EXTINF:-1, ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",ESPN
+https://v3.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=aAHSHfLZm9DnUaH17CxlSQ&expires=1744929936&user_id=a0pCdGNYSkZDWEcweGFWdDRJdVNhVnVRSHp0OFE1NllkbEJzRW1tZg==
+#EXTINF:-1, ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",ESPN 2
+https://v18.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=3oluzLzPhfbViFYGEzwuVg&expires=1744930178&user_id=a0pCdGNYSkZDWEcweGFWdDRJdVNhVnVRSHp0OFE1NllkbEJzRW1tZg==
+#EXTINF:-1, ESPN U
+#EXTINF:-1 tvg-id="ESPN U" tvg-name="ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png",ESPN U
+https://v8.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=KfvuWbIt6H5T6JjXHBLjYg&expires=1744930254&user_id=a0pCdGNYSkZDWEcweGFWdDRJdVNhVnVRSHp0OFE1NllkbEJzRW1tZg==
+#EXTINF:-1, FOX SPORTS 1
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-name="FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+https://v4.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=Xi0R5BzN7JycpFGl0jA_AA&expires=1744930493&user_id=a0pCdGNYSkZDWEcweGFWdDRJdVNhVnVRSHp0OFE1NllkbEJzRW1tZg==
+#EXTINF:-1, FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png",FOX SPORTS 2
+https://v3.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=k8ntpQdl885xVXBdlkV5Bw&expires=1745004880&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, GAME SHOW NETWORK
+#EXTINF:-1 tvg-id="GAME SHOW NETWORK" tvg-name="GAME SHOW NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png",GAME SHOW NETWORK
+https://v15.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8?token=cCkxT0aZeROAoz6uYTFCDw&expires=1745005145&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, GAME SHOW CENTRAL
+#EXTINF:-1 tvg-id="GAME SHOW CENTRAL" tvg-name="GAME SHOW CENTRAL" tvg-logo="https://i.imgur.com/Uuc5h1s.png",GAME SHOW CENTRAL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f175-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ee0129e-a216-405f-b055-21379b2d05c4
+#EXTINF:-1, BUZZR
+#EXTINF:-1 tvg-id="BUZZR" tvg-name="BUZZR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1, MLB NETWORK
+#EXTINF:-1 tvg-id="MLB NETWORK" tvg-name="MLB NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",MLB NETWORK
+https://v4.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8?token=3awD1PaeTnpEX9Uil4QH7w&expires=1745005947&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, NFL NETWORK
+#EXTINF:-1 tvg-id="NFL NETWORK" tvg-name="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NFL NETWORK
+https://v13.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=OCkRIzQfDbct1Mw279onhQ&expires=1745006394&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, NFL REDZONE
+#EXTINF:-1 tvg-id="NFL REDZONE" tvg-name="NFL REDZONE" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/69/Nfl_red_zone.png",NFL REDZONE
+https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=kuWJcbpH4HsSChVvqGzw1g&expires=1745006422&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, NBATV
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBATV
+https://v15.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=PpXNyjHCzM8gNA12Mtnc9g&expires=1745006501&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, THE TENNIS CHANNEL
+#EXTINF:-1 tvg-id="THE TENNIS CHANNEL" tvg-name="THE TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",THE TENNIS CHANNEL
+https://v8.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8?token=mCuAHjC_gVF67KuQqsuQHQ&expires=1745006695&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, TSN 1
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png",TSN 1
+https://v17.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8?token=DT01-95ap1sHZwZo4SSyuA&expires=1745006847&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, TSN 2
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png",TSN 2
+https://v14.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8?token=2hlCqpzesOhe_TntFVT0iQ&expires=1745006974&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, TSN 3
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png",TSN 3
+https://v16.thetvapp.to/hls/tsn3/tracks-v2a1/mono.m3u8?token=wKb8yst3st1nFYwmPKfk9Q&expires=1745007648&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, TSN 4
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png",TSN 4
+https://v5.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8?token=liIdRBHQoogPIr6DWJbRJg&expires=1745035811&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, TSN 5
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/320px-TSN5.svg.png",TSN 5
+https://v17.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8?token=FmCh2WOkfy_AdpWdcW0TSQ&expires=1745035925&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, YES NETWORK
+#EXTINF:-1 tvg-id="YES NETWORK" tvg-name="YES NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png",YES NETWORK
+https://v15.thetvapp.to/hls/yes-network/tracks-v2a1/mono.m3u8?token=cp0Hn1JJAz2qqPBWG9NkFg&expires=1745036068&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, BIG TEN NETWORK
+#EXTINF:-1 tvg-id="BIG TEN NETWORK" tvg-name="BIG TEN NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",BIG TEN NETWORK
+https://v16.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=oBUnWzqQtvuIzgKKG23PWQ&expires=1745036232&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, ESPN NEWS
+#EXTINF:-1 tvg-id="ESPN NEWS" tvg-name="ESPN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png",ESPN NEWS
+https://v8.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8?token=svxMptXpikb3eFLTcTOqeg&expires=1745036489&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, SEC NETWORK
+#EXTINF:-1 tvg-id="SEC NETWORK" tvg-name="SEC NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SEC_Network_logo.svg",SEC NETWORK
+https://v4.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8?token=6EUE7Sz0d3Ttnd_mmYbRmA&expires=1745036636&user_id=ZHhOUGFUcVdPVXBCYmRxd2M3Z0wyOUprcFhONnNQaExmN1FDQ3MyOA==
+#EXTINF:-1, ACC NETWORK
+#EXTINF:-1 tvg-id="ACC NETWORK" tvg-name="ACC NETWORK" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1, BELLATOR MMA
+#EXTINF:-1 tvg-id="BELLATOR MMA" tvg-name="BELLATOR MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png",BELLATOR MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+#EXTINF:-1, BILLIARD TV
+#EXTINF:-1 tvg-id="BILLIARD TV" tvg-name="BILLIARD TV" tvg-logo="https://i.imgur.com/BZijfKh.png",BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1, GOLF CHANNEL
+#EXTINF:-1 tvg-id="GOLF CHANNEL" tvg-name="GOLF CHANNEL" tvg-logo="https://i.imgur.com/Lgux6Ik.png",GOLF CHANNEL
+https://v1.thetvapp.to/hls/GolfChannel/index.m3u8
+#EXTINF:-1, CBS SPORTS HQ
+#EXTINF:-1 tvg-id="CBS SPORTS HQ" tvg-name="CBS SPORTS HQ" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS SPORTS HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1, CBS SPORTS NETWORK 
+#EXTINF:-1 tvg-id="CBS SPORTS NETWORK" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS SPORTS NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1, CINE SONY
+#EXTINF:-1 tvg-id="CINE SONY" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png",CINE SONY
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1, DEAL OR NO DEAL
+#EXTINF:-1 tvg-id="DEAL OR NO DEAL" tvg-name="DEAL OR NO DEAL" tvg-logo="https://i.imgur.com/lZvNXA1.png",DEAL OR NO DEAL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e0ea473-5558-49ab-b31c-6b1180531eab
+#EXTINF:-1, FEAR FACTOR
+#EXTINF:-1 tvg-id="FEAR FACTOR" tvg-name="FEAR FACTOR" tvg-logo="https://i.imgur.com/CIYnLWz.png",FEAR FACTOR
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98
+#EXTINF:-1, FOODIES
+#EXTINF:-1 tvg-id="FOODIES" tvg-name="FOODIES" tvg-logo="https://i.imgur.com/ff2kOul.png",FOODIES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4
+#EXTINF:-1, FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="FOX NEWS CHANNEL" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",FOX NEWS CHANNEL
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1, FOX SOUL
+#EXTINF:-1 tvg-id="FOX SOUL" tvg-name="FOX SOUL" tvg-logo="https://i.imgur.com/YIamDGn.png",FOX SOUL
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, GETTV
+#EXTINF:-1 tvg-id="GETTV" tvg-name="GETTV" tvg-logo="https://i.imgur.com/evOWORd.png",GETTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1, LAFF
+#EXTINF:-1 tvg-id="LAFF" tvg-name="LAFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",LAFF
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1, PBS KIDS
+#EXTINF:-1 tvg-id="PBS KIDS" tvg-name="PBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/800px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
+#EXTINF:-1, UP TV
+#EXTINF:-1 tvg-id="UP TV" tvg-name="UP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/1024px-UPtv_logo.svg.png",UP TV
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
