@@ -415,4 +415,9 @@ https://v5.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=l72PGEhN40
 #EXTINF:-1, BLOOMBERG TV
 #EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/300px-Bloomberg_Television_logo.svg.png",BLOOMBERG TV
 https://v4.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=k3dgKDZa-eG9lKURyV3r2Q&expires=1745205675&user_id=TkRkQ3NpUUljSFNLYjVacWZGZmF3TDFrZnlmQzVnVDFkaGFZQWZUcA==
+#EXTINF:-1, HUSTLER TV
+#EXTINF:-1 tvg-id="HUSTLER TV" tvg-name="HUSTLER TV" tvg-logo="https://whatthelogo.com/storage/logos/hustler-tv-180182.png",HUSTLER TV
+https://moonlight.wideiptv.top/HustlerTV/tracks-v1/index.fmp4.m3u8?token=14b997187c16342a4788f5a42c0beb4b7cae8a21-5c935ee36846d7e35684c8ce6c1068f1-1745195290-1745184490
+
+
 
