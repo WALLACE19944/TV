@@ -397,3 +397,22 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m
 #EXTINF:-1, UP TV
 #EXTINF:-1 tvg-id="UP TV" tvg-name="UP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/1024px-UPtv_logo.svg.png",UP TV
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1, NICKELODEON
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",NICKELODEON
+https://v5.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8?token=NYeTu_AIMBFwkNqo_sBuHg&expires=1745125561&user_id=YkltRVEwcTNSYTdYb28yMW10OUpnWkRIcDcxYlBuTnp6UjJaS0NhVA==
+#EXTINF:-1, NICK JR.
+#EXTINF:-1 tvg-id="NICK JR." tvg-name="NICK JR." tvg-logo="https://i.imgur.com/KT4tdQs.png",NICK JR.
+https://v15.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8?token=fhr0YK7iCOhOHSkKgOQ-Vw&expires=1745173471&user_id=SWk3OFV5TGNOaVVacW1MUDR0eU9lQk5UTzY4ekVpQWg3TUM5OVk1eA==
+#EXTINF:-1, NICKTOONS
+#EXTINF:-1 tvg-id="NICKTOONS" tvg-name="NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",NICKTOONS
+https://v5.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8?token=7H0-qVAyomjTzIdn60aYAA&expires=1745173567&user_id=SWk3OFV5TGNOaVVacW1MUDR0eU9lQk5UTzY4ekVpQWg3TUM5OVk1eA==
+#EXTINF:-1, AMERICAN HEROES
+#EXTINF:-1 tvg-id="AMERICAN HEROES" tvg-name="AMERICAN HEROES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1024px-American_Heroes_Channel_logo.svg.png",AMERICAN HEROES
+https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8?token=Adp30mc85jPs1RwVibdFQA&expires=1745205332&user_id=TkRkQ3NpUUljSFNLYjVacWZGZmF3TDFrZnlmQzVnVDFkaGFZQWZUcA==
+#EXTINF:-1, BBC AMERICA
+#EXTINF:-1 tvg-id="BBC AMERICA" tvg-name="BBC AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/800px-BBC_America_logo_2021.svg.png",BBC AMERICA
+https://v5.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=l72PGEhN40t-4Z4vtUJ9Vg&expires=1745205461&user_id=TkRkQ3NpUUljSFNLYjVacWZGZmF3TDFrZnlmQzVnVDFkaGFZQWZUcA==
+#EXTINF:-1, BLOOMBERG TV
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/300px-Bloomberg_Television_logo.svg.png",BLOOMBERG TV
+https://v4.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=k3dgKDZa-eG9lKURyV3r2Q&expires=1745205675&user_id=TkRkQ3NpUUljSFNLYjVacWZGZmF3TDFrZnlmQzVnVDFkaGFZQWZUcA==
+
