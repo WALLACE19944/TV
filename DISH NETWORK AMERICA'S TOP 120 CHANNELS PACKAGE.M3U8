@@ -442,3 +442,6 @@ https://ortepe.xyz:13352/tv/hustlerhd/chunks.m3u8?nimblesessionid=89668918&wmsAu
 #EXTINF:-1, PLAYBOY TV
 #EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Playboy-TV-Logo-Vector.svg-.png",PLAYBOY TV
 https://ortepe.xyz:13352/tv/playboy/chunks.m3u8?nimblesessionid=89670419&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEwOjMzOjMxIFBNJmhhc2hfdmFsdWU9YThWUUdQdTdrVHluTS90c2NCZS84QT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1, BET PLUTO TV
+#EXTINF:-1 tvg-id="BET PLUTO TV" tvg-name="BET PLUTO TV" tvg-logo="https://i.imgur.com/Kq9WKZg.png",BET PLUTO TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
