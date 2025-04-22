@@ -28,7 +28,7 @@ https://v14.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8?token=764EwHcCdpv78kb9uY
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1, BOUNCE XL
 #EXTINF:-1 tvg-id="BOUNCE XL" tvg-name="BOUNCE XL" tvg-logo="https://i.imgur.com/GzxgSkc.png",BOUNCE XL
-https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
+https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1, LOL NETWORK
 #EXTINF:-1 tvg-id="LOL NETWORK" tvg-name="LOL NETWORK" tvg-logo="https://i.imgur.com/Tiy3Ur2.png",LOL NETWORK
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
