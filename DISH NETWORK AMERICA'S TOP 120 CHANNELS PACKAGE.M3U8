@@ -418,33 +418,9 @@ https://v5.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=l72PGEhN40
 #EXTINF:-1, BLOOMBERG TV
 #EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/300px-Bloomberg_Television_logo.svg.png",BLOOMBERG TV
 https://v4.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=k3dgKDZa-eG9lKURyV3r2Q&expires=1745205675&user_id=TkRkQ3NpUUljSFNLYjVacWZGZmF3TDFrZnlmQzVnVDFkaGFZQWZUcA==
-#EXTINF:-1, HUSTLER TV
-#EXTINF:-1 tvg-id="HUSTLER TV" tvg-name="HUSTLER TV" tvg-logo="https://whatthelogo.com/storage/logos/hustler-tv-180182.png",HUSTLER TV
-https://moonlight.wideiptv.top/HustlerTV/tracks-v1/index.fmp4.m3u8?token=14b997187c16342a4788f5a42c0beb4b7cae8a21-5c935ee36846d7e35684c8ce6c1068f1-1745195290-1745184490
-#EXTINF:-1, EXXXOTICA
-#EXTINF:-1 tvg-id="EXXXOTICA" tvg-name="EXXXOTICA" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/39d3d29379377.58f30f6096a92.png",EXXXOTICA
-https://moonlight.wideiptv.top/ExxxoticaTV/tracks-v1/index.fmp4.m3u8?token=50f96d6450a4573d41b25cca4745fb88f22271eb-ebed7bf1b766ccf89a0ab54adfceecac-1745196059-1745185259
-#EXTINF:-1, LEO TV GOLD
-#EXTINF:-1 tvg-id="LEO TV GOLD" tvg-name="LEO TV GOLD" tvg-logo="https://i.imgur.com/yJdnsHs.png",LEO TV GOLD
-https://moonlight.wideiptv.top/LeoGoldTV/tracks-v1/index.fmp4.m3u8?token=19dc33621c7be4717bf236191aebee38fe253643-7dda26dc4806d75809c30a3d9b0b42e5-1745196236-1745185436
-#EXTINF:-1, BRAZZERS TV
-#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="BRAZZERS TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png",BRAZZERS TV
-https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=e57f93aa88564bb7c8dd982371f8a466fc617880-6154d4fa4f3e1f26c9b9e90f4998044d-1745197128-1745186328
-#EXTINF:-1, BARELY LEGAL TV
-#EXTINF:-1 tvg-id="BARELY LEGAL TV" tvg-name="BARELY LEGAL TV" tvg-logo="https://www.sapphiremedia.com/images/smallBarelyLegalLogo.png",BARELY LEGAL TV
-https://ortepe.xyz:13352/tv/barely/chunks.m3u8?nimblesessionid=89666041
-#EXTINF:-1, PENTHOUSE PASSION TV
-#EXTINF:-1 tvg-id="PENTHOUSE PASSION TV" tvg-name="PENTHOUSE PASSION TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d0/Penthouse_Passion_(2019-.n.v.).png",PENTHOUSE PASSION TV
-https://ortepe.xyz:13352/tv/penthousepassion/chunks.m3u8?nimblesessionid=89667233&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEwOjI0OjA3IFBNJmhhc2hfdmFsdWU9VmV0UnB2ODlTODlkMWtGdlFXOE5MZz09JnZhbGlkbWludXRlcz02MA==
-#EXTINF:-1, PENTHOUSE TV
-#EXTINF:-1 tvg-id="PENTHOUSE TV" tvg-name="PENTHOUSE TV" tvg-logo="https://download.logo.wine/logo/Penthouse_TV/Penthouse_TV-Logo.wine.png",PENTHOUSE TV
-https://ortepe.xyz:13352/tv/penthouse/chunks.m3u8?nimblesessionid=89668112&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEwOjI2OjUxIFBNJmhhc2hfdmFsdWU9enF0VWZncHh3a0VZU1dTQWoyMlpNdz09JnZhbGlkbWludXRlcz02MA==
-#EXTINF:-1, HUSTLER HD TV
-#EXTINF:-1 tvg-id="HUSTLER HD TV" tvg-name="HUSTLER HD TV" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/12/Hustler_HD.png",HUSTLER HD TV
-https://ortepe.xyz:13352/tv/hustlerhd/chunks.m3u8?nimblesessionid=89668918&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEwOjI3OjMyIFBNJmhhc2hfdmFsdWU9MXdUbVI4WkMyOVlicHNpYm5neTlBdz09JnZhbGlkbWludXRlcz02MA==&rand=0.3571968616067731
-#EXTINF:-1, PLAYBOY TV
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Playboy-TV-Logo-Vector.svg-.png",PLAYBOY TV
-https://ortepe.xyz:13352/tv/playboy/chunks.m3u8?nimblesessionid=89670419&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDEwOjMzOjMxIFBNJmhhc2hfdmFsdWU9YThWUUdQdTdrVHluTS90c2NCZS84QT09JnZhbGlkbWludXRlcz02MA==
-#EXTINF:-1, VIVID TV
-#EXTINF:-1 tvg-id="VIVID TV" tvg-name="VIVID TV" tvg-logo="https://i.imgur.com/56k2iwG.png",VIVID TV
-https://ortepe.xyz:39396/tv/vivid/chunks.m3u8?nimblesessionid=90061499&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDEwOjEyOjUyIFBNJmhhc2hfdmFsdWU9OWcrbSs1ZlQ0WGdWdFo0SC9XclBoQT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/3000px-National_Geographic_Logo.svg.png",NATIONAL GEOGRAPHIC
+https://v12.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=wzMPHX0PPpYzou04eEFJXw&expires=1745388431&user_id=N2l2R3ZVNUlySFpCMVpBTTZEMFBONXJ4dEZKMmRTeXQ2SHN2c1paVQ==
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NATIONAL GEOGRAPHIC WILD
+https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=wOL6aa66ZqyGgdgaADrQAg&expires=1745388623&user_id=N2l2R3ZVNUlySFpCMVpBTTZEMFBONXJ4dEZKMmRTeXQ2SHN2c1paVQ==
