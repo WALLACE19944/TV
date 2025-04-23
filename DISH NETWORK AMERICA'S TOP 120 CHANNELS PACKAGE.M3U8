@@ -322,6 +322,9 @@ https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=kuWJcbpH4HsSCh
 #EXTINF:-1, NBATV
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBATV
 https://v15.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=PpXNyjHCzM8gNA12Mtnc9g&expires=1745006501&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
+#EXTINF:-1, NHL NETWORK
+#EXTINF:-1 tvg-id="NHL NETWORK" tvg-name="NHL NETWORK" tvg-logo="https://www.freepnglogos.com/uploads/nhl-logo-png/nhl-network-logo-png-0.png",NHL NETWORK
+https://v15.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8?token=akTre_kNx_435SqUdLXATQ&expires=1745388849&user_id=N2l2R3ZVNUlySFpCMVpBTTZEMFBONXJ4dEZKMmRTeXQ2SHN2c1paVQ==
 #EXTINF:-1, THE TENNIS CHANNEL
 #EXTINF:-1 tvg-id="THE TENNIS CHANNEL" tvg-name="THE TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",THE TENNIS CHANNEL
 https://v8.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8?token=mCuAHjC_gVF67KuQqsuQHQ&expires=1745006695&user_id=b3dsdEV0MTVVSFpGa1RXRmhEWGt2eGZDQzdaR09aTEZMTXdEZjBheA==
